@@ -4,7 +4,7 @@ Description According to WHO, stroke is the second leading cause of death and th
 Dataset link: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 The code is structured as follows:
-  1.Introduction.
+1.Introduction.
   2.Data Preparation
   3.Exploratory Data Analysis.
   4.Data Preprocessing.
